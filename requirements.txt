@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-core
+openai
+pypdf
+tiktoken
+aiofiles
+fastapi
+uvicorn
+jinja2
+python-multipart
+PyPDF2
+faiss-cpu
+python-dotenv==1.0.1
+langchain-google-genai==2.1.5
